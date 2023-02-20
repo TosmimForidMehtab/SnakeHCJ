@@ -1,3 +1,8 @@
+## Demo
+![Screenshot (729)](https://user-images.githubusercontent.com/83111399/220093641-f54f1adb-c371-4a92-82a3-71ee7ceb7e8e.png)
+![Screenshot (730)](https://user-images.githubusercontent.com/83111399/220093656-32d1b0bf-9298-46ea-9329-eaadf3d23d07.png)
+
+
 ## Getting the Game
 
 -   Download the folder
